@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icon/bulm.ico</file>
+        <file>res/icon/close.png</file>
+        <file>res/icon/closeshow.png</file>
+        <file>res/icon/closeshow_hover.png</file>
+        <file>res/icon/closeshow_press.png</file>
+        <file>res/icon/core.png</file>
+        <file>res/icon/createpro.png</file>
+        <file>res/icon/dir.png</file>
+        <file>res/icon/down.png</file>
+        <file>res/icon/import.png</file>
+        <file>res/icon/left.png</file>
+        <file>res/icon/music.png</file>
+        <file>res/icon/next.png</file>
+        <file>res/icon/next_hover.png</file>
+        <file>res/icon/next_press.png</file>
+        <file>res/icon/openpro.png</file>
+        <file>res/icon/pause.png</file>
+        <file>res/icon/pause_hover.png</file>
+        <file>res/icon/pause_press.png</file>
+        <file>res/icon/pic.png</file>
+        <file>res/icon/play.png</file>
+        <file>res/icon/play_hover.png</file>
+        <file>res/icon/play_press.png</file>
+        <file>res/icon/previous.png</file>
+        <file>res/icon/previous_hover.png</file>
+        <file>res/icon/previous_press.png</file>
+        <file>res/icon/right.png</file>
+        <file>res/icon/show.jpg</file>
+        <file>res/icon/slideshow.png</file>
+        <file>res/style/style.qss</file>
+    </qresource>
+</RCC>
